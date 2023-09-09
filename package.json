@@ -1,0 +1,22 @@
+{
+  "name": "bedrockres",
+  "version": "1.0.0",
+  "description": "Rescript Language Support for Minecraft ScriptAPI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lampese/BedrockRes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lampese/BedrockRes/issues"
+  },
+  "homepage": "https://github.com/Lampese/BedrockRes#readme",
+  "dependencies": {
+    "@types/node": "^20.5.0"
+  }
+}
